@@ -9,61 +9,35 @@ The second part of the course introduces financial time series. Here, we will di
 <br/>
 
 Prerequisites on programming languages:<br/>
-No python knowledge is required although a basic understanding of coding principles is helpful. We will not discuss the theory of the language itself. The focus
-is set on its application.
+No python knowledge is required although a basic understanding of coding principles is helpful. We will not discuss the theory of the language itself but focus
+on its application.
 
 Prerequisites on theory:<br/>
 A basic understanding of univeriate time series is helpful but not required. Basic statistical concepts and some linear algebra.
 
 
-## Chapter 1: Collaboration Tools and Setup
-- usage of Git and Github
-- setup of Python development with virtual environment
-- lecture notes will be done with jupyter/colab notebook
+## Part 1: Basics in data analysis with Python
+- introduction to software packages: pandas, numpy, datetime
+- introduction to datatypes and datastructures: list, dictionaries, dataframes, numpy-arrays
+- visualization techniques: matplotlib
+- handling time series
 
-## Chapter 1: Basics in data analysis with Python
-- introduction to typical software packages such as Pandas, Numpy, Scipy
-- introduction to datatypes, like dataframes and dictionaries
-- visualization techniques using matplotlib/seaborn
-- basic python knowledge (how to structure code)
 
-## Chapter 2: Financial Time Series Analysis with Python
-- AR, MA, ARMA modelling
+## Part 2: Financial Time Series Analysis with Python
+- financial terminology: returns, log-returns, mean, variance, volatility, etc.
 - stylized facts on financial time series and their implications
-- volatility models: ARCH & GARCH
-- combination of both: ARMA-GARCH Extensions
+- theory: A quick recap of univariate time series
+- introduction to ARMA modelling
+- introduction to ARCH/GARCH modelling
+- ARMA-GARCH extensions
 
-Literature:
-- Lecture Notes: Klaus Wohlrabe and Stefan Mittnik
-- Brooks(2008): Introductory Econometrics for Finance
-- Tsay(2013): An Introduction to Analysis of Financial Data with R
 
-## Chapter 3: Risk Management
-- introduction to monetary risk measures: Value at Risk, Expected Shortfall
-- heavy-tail phenomenom of financial time series and their implications
-- back-testing methods
+## Literature:
+- McKiney (2018): Python for Data Analysis
+- Shumway, Stoffer (2017): Time Series Analysis and Its Applications - With R Examples
+- Brockwell, Davis (2016): Introduction to Time Series and Forecasting
+- Brockwell, Davis (2006): Time Series - Theory and Methods
+- Tsay(2010): Financial Time Series
+- McNeil,Frey,Embrechts (2005): Quantitative Risk Management
 
-Literature:
-- McNeil, Embrechts, Frey(2015): Quantitative Risk Management
-- Selected Papers of Prof. Mittnik
 
-## Chapter 4: Portfolio Optimization
-- classical mean-variance optimization by Markowitz, including constrained optimization
-- introduction to the capital asset pricing model
-- introduction to convex optimization tasks
-- portfolio models with downside risk
-
-Literature: 
-- Markowitz(1952): Portfolio Selection
-- Joshi and Paterson (2013): Mathematical Portfolio Theory
-- Elton et. al (2007): Modern Portfolio Theory and Investment Analysis
-
-## Kapitel 5: Machine Learning Methods
-- portfolio selection with neural networks
-- return prediction with classification/regression methods
-- analyzing high frequency/tick data
-- reduction of dimension techniques (Autoencoder vs. PCA)
-
-Literature:
-- Lopez de Prado(2018): Advances in Financial Machine Learning 
-- Hastie, Tibshirani(2009): The Elements of Statistical Learning: Data Mining, Inference, and Prediction 
