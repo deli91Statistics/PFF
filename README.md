@@ -1,11 +1,21 @@
 # Syllabus - Introduction to Python for Finance
 
-In this course, we will introduce basic python concepts and explore their use in financial context. This course is aimed for students who want
-to learn python from scratch.
+In this course, we will introduce basic python concepts and explore their use in financial econometrics.
+
+First, we demonstrate how to use python to manipulate data. Given any project, "data crunching" usually consumes most of the time hence it is essential to have a good command of the vast amount of tools python offers. In particular, we will investigate packages such as pandas and numpy.
+
+The second part of the course introduces financial time series. Here, we will discuss their unique characteristics also known as "stylized facts" and different approaches on how to model them.
 
 
+Prerequisites on programming languages:
+No python knowledge is required although a basic understanding of coding principles is helpful. We will not discuss the theory of the language itself. The focus
+is set on its application.
 
-## Chapter 0: Collaboration Tools and Setup
+Prerequisites on theory:
+A basic understanding of univeriate time series is helpful but not required. Basic statistical concepts and some linear algebra.
+
+
+## Chapter 1: Collaboration Tools and Setup
 - usage of Git and Github
 - setup of Python development with virtual environment
 - lecture notes will be done with jupyter/colab notebook
