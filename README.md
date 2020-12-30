@@ -1,4 +1,6 @@
-# Syllabus - Python for Finance
+# Syllabus - Introduction to Python for Finance
+
+In this course, we will introduce basic python concepts and explore their use in financial context.
 
 ## Chapter 0: Collaboration Tools and Setup
 - usage of Git and Github
