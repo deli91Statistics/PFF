@@ -6,12 +6,13 @@ First, we demonstrate how to use python to manipulate data. Given any project, "
 
 The second part of the course introduces financial time series. Here, we will discuss their unique characteristics also known as "stylized facts" and different approaches on how to model them.
 
+<br/>
 
-Prerequisites on programming languages:
+Prerequisites on programming languages:<br/>
 No python knowledge is required although a basic understanding of coding principles is helpful. We will not discuss the theory of the language itself. The focus
 is set on its application.
 
-Prerequisites on theory:
+Prerequisites on theory:<br/>
 A basic understanding of univeriate time series is helpful but not required. Basic statistical concepts and some linear algebra.
 
 
