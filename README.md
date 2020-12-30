@@ -17,22 +17,22 @@ A basic understanding of univeriate time series is helpful but not required. Bas
 
 
 ## Part 1: Basics in data analysis with Python
-- introduction to software packages: pandas, numpy, datetime
-- introduction to datatypes and datastructures: list, dictionaries, dataframes, numpy-arrays
-- visualization techniques: matplotlib
-- handling time series
+- Introduction to software packages: pandas, numpy, datetime
+- Introduction to datatypes and datastructures: list, dictionaries, dataframes, numpy-arrays
+- Visualization techniques: matplotlib
+- Handling time series
 
 
 ## Part 2: Financial Time Series Analysis with Python
-- financial terminology: returns, log-returns, mean, variance, volatility, etc.
-- stylized facts on financial time series and their implications
-- theory: A quick recap of univariate time series
-- introduction to ARMA modelling
-- introduction to ARCH/GARCH modelling
-- ARMA-GARCH extensions
+- Financial terminology: returns, log-returns, mean, variance, volatility, etc.
+- Stylized facts on financial time series and their implications
+- Theory: A quick recap of univariate time series
+- Introduction to ARMA modelling
+- Introduction to ARCH/GARCH modelling
+- ARMA-GARCH extensions, modelling volatility
 
 
-## Literature:
+### Literature:
 - McKiney (2018): Python for Data Analysis
 - Shumway, Stoffer (2017): Time Series Analysis and Its Applications - With R Examples
 - Brockwell, Davis (2016): Introduction to Time Series and Forecasting
